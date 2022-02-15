@@ -13,5 +13,5 @@ Butuh NodeJs (NPM) untuk menjalankan. Website ini dibuat menggunakan Library Rea
 ```bash
 npm install
 
-npm run dev
+npm run start
 ```
