@@ -12,7 +12,7 @@ const Target = () => (
             <h1 className='gradient__text'>Target jangka pendek yang ingin saya capai</h1>
             <ul>
                 <li>Mendapat pengalaman serta skill/kemampuan baik hardskill maupun softskill di universitas.</li>
-                <li>Mendapat kesempatan magang/kampus merdeka/PKL yang bagus dan mendapat pengalaman</li>
+                <li>Mendapat kesempatan magang/kampus merdeka/PKL yang bagus dan mendapat pengalaman.</li>
                 <li>Lulus dengan nilai dan waktu yang memuaskan.</li>
             </ul>
         </div>

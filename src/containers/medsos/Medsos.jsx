@@ -7,10 +7,10 @@ const Header = () => (
         <h1 className='gradient__text'>Cek Media Sosial Saya</h1>
 
         <div className='medsos-content'>
-            <MedsosCard namaMedsos='Instagram' />
-            <MedsosCard namaMedsos='Linkedin' />
-            <MedsosCard namaMedsos='Github' />
-            <MedsosCard namaMedsos='Kaggle' />
+            <MedsosCard namaMedsos='Instagram' username='dimst_31' linkSosmed='https://www.instagram.com/dimst_31/' />
+            <MedsosCard namaMedsos='Linkedin' username='Dimas Tri Mustakim' linkSosmed='https://www.linkedin.com/in/dimastrim' />
+            <MedsosCard namaMedsos='Github' username='Dimas Tri' linkSosmed='https://github.com/tridims' />
+            <MedsosCard namaMedsos='Kaggle' username='Dimas Tri Mustakim' linkSosmed='https://www.kaggle.com/dimastri' />
         </div>
     </div>
 );
